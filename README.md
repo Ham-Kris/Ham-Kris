@@ -25,8 +25,8 @@
 | 项目 | 简介 | 核心技术 |
 | :-- | :-- | :-- |
 | **MedicNex AI & Chat UI**（组织私有） | 医学教育 AI 智能体平台，融合 LLM 与知识图谱，为学生和医生提供辅助决策 | `Vue 3` · `TypeScript` · `Vite` · `Python` · `LLM-Orchestration` |
-| **MedicNex-File2MD**（组织私有） | 多格式文件 ⟶ Markdown 转换工具，支持视觉模型 OCR | `FastAPI` · `Python` |
-| **YBU-ChooseClass-Agent** | 延边大学选课自动化脚本，内置验证码预处理与识别 | `Python` · `Selenium` · `PaddleOCR` |
+| **MedicNex-File2MD**（组织私有） | 多格式文件转换为 LLM 阅读友好格式的微服务，支持123种文件格式 | `FastAPI` · `Python` |
+| **YBU-ChooseClass-Agent** | 延边大学选课自动化脚本，内置验证码预处理与识别 | `Python` · `Openwright` · `DdddOCR` |
 
 > **愿景：** 以临床洞察 + 计算思维，打造 **可靠、可解释、可落地** 的医疗 AI 解决方案。
 
