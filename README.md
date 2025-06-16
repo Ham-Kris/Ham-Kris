@@ -6,6 +6,7 @@
 **临床医学本科生 · AI & Full-Stack 开发者**  
 秉持医学的同理心与工程的系统思维，专注 **教育 × 智能** 的创新实践。
 
+[![](https://github.com/MedicNex/.github/blob/main/medicnex-badge.svg)](https://github.com/MedicNex)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krisham@medicnex.com)
 [![Website](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github&logoColor=white)](https://www.medicnex.com)
 
