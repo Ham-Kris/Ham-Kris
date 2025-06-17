@@ -16,7 +16,7 @@
 
 ## 🏢 我的组织 | MedicNex
 
-> **MedicNex — A Tech Inc Dedicated to Promoting Educational Equity**  
+> **MedicNex — A Tech Ltd Dedicated to Promoting Educational Equity**  
 > 聚焦医学教育智能化，致力于联结技术与人文，推动优质教育资源普惠化。
 
 ---
