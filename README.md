@@ -6,7 +6,7 @@
 **临床医学本科生 · AI & Full-Stack 开发者**  
 秉持医学的同理心与工程的系统思维，专注 **教育 × 智能** 的创新实践。
 
-[![](https://github.com/MedicNex/.github/blob/main/medicnex-badge.svg)](https://github.com/MedicNex)
+[![MedicNex AI](https://www.medicnex.com/static/images/medicnex-badge.svg)](https://www.medicnex.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krisham@medicnex.com)
 [![Website](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github&logoColor=white)](https://www.medicnex.com)
 
@@ -26,7 +26,7 @@
 | 项目 | 简介 | 核心技术 |
 | :-- | :-- | :-- |
 | **MedicNex AI & Chat UI**（组织私有） | 医学教育 AI 智能体平台，融合 LLM 与知识图谱，为学生和医生提供辅助决策 | `Vue 3` · `TypeScript` · `Vite` · `Python` · `LLM-Orchestration` |
-| **MedicNex-File2MD**（组织私有） | 将多格式文件转换为 LLM 阅读友好格式的微服务，支持 123 种文件格式 | `FastAPI` · `Python` |
+| **MedicNex-File2MD** | 将多格式文件转换为 LLM 阅读友好格式的微服务，支持 123 种文件格式 | `FastAPI` · `Python` · `PaddleOCR` · `Redis` |
 | **YBU-ChooseClass-Agent** | 延边大学选课自动化脚本，内置验证码预处理与识别 | `Python` · `Openwright` · `DdddOCR` |
 
 > **愿景：** 以临床洞察 + 计算思维，打造 **可靠、可解释、可落地** 的医疗 AI 解决方案。
@@ -38,7 +38,7 @@
 - **Backend / AI**：`Python` · `FastAPI` · `PyTorch` · `LangChain` · `LLM Fine-Tuning`
 - **Frontend**：`Vue 3` · `TypeScript` · `JavaScript` · `TailwindCSS`
 - **DevOps**：`Docker` · `PM2` · `Nginx`
-- **Data**：`Pandas` · `SQL` · `Pydantic` · `Mermaid` · `R`
+- **Data**：`Pandas` · `SQL` · `Pydantic` · `Mermaid` · `R` · `Redis`
 - **医学**：基础临床诊断学 · 循证医学
 
 ---
